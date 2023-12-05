@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Check out my currency conversion app: https://play.google.com/store/apps/details?id=com.vance.ency
+<!-- Check out my currency conversion app: https://play.google.com/store/apps/details?id=com.vance.ency -->
 
 <!--
 **1luvin/1luvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
