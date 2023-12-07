@@ -1,18 +1,15 @@
-### Hi there 👋
+# My projects
 
-<!-- Check out my currency conversion app: https://play.google.com/store/apps/details?id=com.vance.ency -->
+### 🟣 Kotlin
 
-<!--
-**1luvin/1luvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [Ridal – movie finder](https://github.com/1luvin/android-ridal)
+- [Blurry – blur & dim photo editor](https://github.com/1luvin/android-blurry)
+- [AEON – mvvm pattern sample](https://github.com/1luvin/AEON)
 
-Here are some ideas to get you started:
+### 🟠 Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Music Charts – historical music data](https://github.com/1luvin/MusicCharts)
+
+### 🔵 Python
+
+- [Samples – avltree, queue and stack](https://github.com/1luvin/python-samples)
