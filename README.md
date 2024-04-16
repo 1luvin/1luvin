@@ -16,7 +16,7 @@
 
 ### 🔵 Python
 
-- [Samples – avltree, queue and stack](https://github.com/1luvin/python-samples)
+- [AVLTree, Queue, Stack](https://github.com/1luvin/python-samples)
 
 ### 🟢 C/C++
 
