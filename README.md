@@ -8,7 +8,7 @@
 
 - [Ridal – movie finder](https://github.com/1luvin/android-ridal)
 - [Blurry – blur & dim photo editor](https://github.com/1luvin/android-blurry)
-- [AEON – mvvm pattern sample](https://github.com/1luvin/AEON)
+- [MVVM sample](https://github.com/1luvin/android-mvvm-sample)
 
 ### 🟠 Java
 
