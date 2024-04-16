@@ -1,4 +1,4 @@
-# My projects
+# Projects
 
 ### 🔴 Google Play
 
